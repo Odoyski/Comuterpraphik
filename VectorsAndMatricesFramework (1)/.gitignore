@@ -1,0 +1,9 @@
+build/
+builds/
+$RECYCLE.BIN/
+.DS_Store
+bin/
+gen/
+out/
+.vscode/
+.vs/
